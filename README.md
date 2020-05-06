@@ -1,5 +1,5 @@
 # Jadwal-Adzan-kotlin
-Prayer TIme
+Prayer Time
 Aplikasi ini menampilkan jadwal adzan dari server
 
 ## Feature Project
